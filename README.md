@@ -2,7 +2,7 @@
 <h3 align="center">Developer Front-End Jr</h3>
 
     
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP, SQL, REACT and TypeScript
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, REACT and TypeScript
 - 👀 I’m interested in  REACT NATIVE, NODEJS
 - 🔥 My english is a work in progress
 - 📫 How to reach me: filipelincoln@hotmail.com 
