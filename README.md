@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, REACT and TypeScript
 - 👀 I’m interested in  REACT NATIVE, NODEJS
 - 🔥 My english is a work in progress
-- 📫 How to reach me: filipelincoln@hotmail.com 
+- 📫 How to reach me: filipelincoln@outlook.com.br 
 - <a href="https://www.linkedin.com/in/filipedevjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </br>
