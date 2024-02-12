@@ -6,7 +6,7 @@
 - 👀 I’m interested in  REACT NATIVE, NODEJS
 - 🔥 My english is a work in progress
 - 📫 How to reach me: filipelincoln@hotmail.com 
-- <a href="https://www.linkedin.com/in/filipe-lincoln-756769169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- <a href="https://www.linkedin.com/in/filipedevjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </br>
 
